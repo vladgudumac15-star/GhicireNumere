@@ -1,0 +1,1 @@
+Un simplu joc unde ghicesti un numar random dintr-un interval de numere de la 1 pana la un numar ales de utilizator.
